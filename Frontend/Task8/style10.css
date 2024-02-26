@@ -36,13 +36,13 @@ label {
 
 
 input {
-    width: 500px;
+    width: 100%;
     height: 35px;
     background: whitesmoke;
     outline: none;
     border: none;
     border-radius: 3px;
-    margin: 20px;
+    margin: 10px;
     padding: 20px;
 }
 
